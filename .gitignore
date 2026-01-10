@@ -1,0 +1,18 @@
+# Solid Edge privremene datoteke
+*.tmp
+*.bak
+*.log
+*.~*
+*.pcf
+*.txt_log
+
+# Python smeće
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Windows sistemske datoteke
+Thumbs.db
+desktop.ini
