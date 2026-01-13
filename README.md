@@ -22,3 +22,5 @@ Dizajn i proračun kompaktnog reduktora s čeonim zupčanicima za laboratorijski
 └── README.md # Glavna prezentacijska stranica projekta
 
 ## Trenutni Status
+
+Dokumentacija: Završen inženjerski proračun
