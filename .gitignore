@@ -16,3 +16,6 @@ venv/
 # Windows sistemske datoteke
 Thumbs.db
 desktop.ini
+
+#Jupyter notebook datoteka
+.ipynb_checkpoints/
