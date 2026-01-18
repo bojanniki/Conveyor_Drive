@@ -23,4 +23,5 @@ Dizajn i proračun kompaktnog reduktora s čeonim zupčanicima za laboratorijski
 
 ## Trenutni Status
 
-Dokumentacija: Završen inženjerski proračun
+Dokumentacija: Završen inženjerski proračun. Standardizacija dimenzija zupčanika
+Kreirani 3D modeli zupčanika u Solid Edge
