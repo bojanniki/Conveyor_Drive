@@ -1,0 +1,55 @@
+﻿Report Name: C:\Users\bojan\Desktop\Projects\engineering_projects\Conveyor_Drive\02_CAD_Modeli\Assembly\report.txt
+Report Time: 21.4.2026. 21:45:45
+Report Options:
+    Part Names
+
+Select Set #1:
+    kućište_rev_02.kadica:1
+    sklop_prijenosnika.asm:1
+
+Interferences:
+    1 of 11
+    kućište_rev_02.kadica:1
+    lezaj.par:2
+
+    2 of 11
+    kućište_rev_02.kadica:1
+    lezaj.par:3
+
+    3 of 11
+    kućište_rev_02.kadica:1
+    lezaj.par:4
+
+    4 of 11
+    pinion.par:1
+    gear.par:1
+
+    5 of 11
+    pinion.par:1
+    pero.par:2
+
+    6 of 11
+    vratilo.par:1
+    lezaj.par:2
+
+    7 of 11
+    vratilo.par:1
+    pero.par:1
+
+    8 of 11
+    cahura.par:1
+    lezaj.par:1
+
+    9 of 11
+    vratilo.par:2
+    uskocnik_din471_12_1.par:3
+
+    10 of 11
+    vratilo.par:2
+    uskocnik_din471_12_1.par:4
+
+    11 of 11
+    cahura.par:2
+    lezaj.par:4
+
+    11 Interferences Detected
