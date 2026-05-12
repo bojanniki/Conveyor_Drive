@@ -1,55 +1,322 @@
 ﻿Report Name: C:\Users\bojan\Desktop\Projects\engineering_projects\Conveyor_Drive\02_CAD_Modeli\Assembly\report.txt
-Report Time: 21.4.2026. 21:45:45
+Report Time: 30.4.2026. 21:54:39
 Report Options:
     Part Names
 
 Select Set #1:
-    kućište_rev_02.kadica:1
-    sklop_prijenosnika.asm:1
+    KUCISTE_DONJI_DIO
+    SKLOP_ZUPCANIKA.asm:1
+    KUCISTE_GORNJI_DIO
+    MAZALICA_DIN71412_M6.par:1
+    VIJAK_DIN912_M5x20.par:1
+    PODLOSKA_DIN125_M5.par:1
+    PODLOSKA_DIN125_M5.par:2
+    MATICA_DIN985_M5.par:1
+    ZATIK_DIN6325_4x14.par:1
+    ZATIK_DIN6325_4x14.par:2
+    POKLOPAC_LEZAJA_UNIVERZALNI.par:1
+    VIJAK_DIN912_M3x10.par:1
+    POKLOPAC_LEZAJA_UNIVERZALNI.par:2
+    VIJAK_DIN912_M3x10.par:6
+    BRTVA_DIN7603_A_M8.par:1
+    VIJAK_DIN933_M8x10.par:1
+    PODLOSKA_DIN125_M5.par:3
+    MATICA_DIN985_M5.par:2
+    VIJAK_DIN912_M5x20.par:2
+    PODLOSKA_DIN125_M5.par:4
+    PODLOSKA_DIN125_M5.par:5
+    MATICA_DIN985_M5.par:3
+    VIJAK_DIN912_M5x20.par:3
+    PODLOSKA_DIN125_M5.par:6
+    PODLOSKA_DIN125_M5.par:7
+    MATICA_DIN985_M5.par:4
+    VIJAK_DIN912_M5x20.par:4
+    PODLOSKA_DIN125_M5.par:8
+    PODLOSKA_DIN125_M5.par:9
+    MATICA_DIN985_M5.par:5
+    VIJAK_DIN912_M5x20.par:5
+    PODLOSKA_DIN125_M5.par:10
+    PODLOSKA_DIN125_M5.par:11
+    MATICA_DIN985_M5.par:6
+    VIJAK_DIN912_M5x20.par:6
+    PODLOSKA_DIN125_M5.par:12
+    PODLOSKA_DIN125_M5.par:13
+    MATICA_DIN985_M5.par:7
+    VIJAK_DIN912_M5x20.par:7
+    PODLOSKA_DIN125_M5.par:14
+    PODLOSKA_DIN125_M5.par:15
+    MATICA_DIN985_M5.par:8
+    VIJAK_DIN912_M5x20.par:8
+    PODLOSKA_DIN125_M5.par:16
+    PODLOSKA_DIN125_M5.par:17
+    MATICA_DIN985_M5.par:9
+    VIJAK_DIN912_M5x20.par:9
+    PODLOSKA_DIN125_M5.par:18
+    PODLOSKA_DIN125_M5.par:19
+    MATICA_DIN985_M5.par:10
+    VIJAK_DIN912_M5x20.par:10
+    PODLOSKA_DIN125_M5.par:20
+    VIJAK_DIN912_M3x10.par:2
+    VIJAK_DIN912_M3x10.par:3
+    VIJAK_DIN912_M3x10.par:4
+    VIJAK_DIN912_M3x10.par:7
+    VIJAK_DIN912_M3x10.par:8
+    VIJAK_DIN912_M3x10.par:9
+    VIJAK_DIN912_M3x10.par:10
+    VIJAK_DIN912_M3x10.par:11
+    VIJAK_DIN912_M3x10.par:12
 
 Interferences:
-    1 of 11
-    kućište_rev_02.kadica:1
-    lezaj.par:2
+    1 of 63
+    KUCISTE_DONJI_DIO
+    LEZAJ_6201_2RS.par:2
 
-    2 of 11
-    kućište_rev_02.kadica:1
-    lezaj.par:3
+    2 of 63
+    KUCISTE_DONJI_DIO
+    LEZAJ_6201_2RS.par:3
 
-    3 of 11
-    kućište_rev_02.kadica:1
-    lezaj.par:4
+    3 of 63
+    KUCISTE_DONJI_DIO
+    LEZAJ_6201_2RS.par:4
 
-    4 of 11
-    pinion.par:1
-    gear.par:1
+    4 of 63
+    KUCISTE_DONJI_DIO
+    POKLOPAC_LEZAJA_UNIVERZALNI.par:1
 
-    5 of 11
-    pinion.par:1
-    pero.par:2
+    5 of 63
+    KUCISTE_DONJI_DIO
+    POKLOPAC_LEZAJA_UNIVERZALNI.par:2
 
-    6 of 11
-    vratilo.par:1
-    lezaj.par:2
+    6 of 63
+    KUCISTE_DONJI_DIO
+    VIJAK_DIN933_M8x10.par:1
 
-    7 of 11
-    vratilo.par:1
-    pero.par:1
+    7 of 63
+    KUCISTE_DONJI_DIO
+    MATICA_DIN985_M5.par:9
 
-    8 of 11
-    cahura.par:1
-    lezaj.par:1
+    8 of 63
+    KUCISTE_DONJI_DIO
+    PODLOSKA_DIN125_M5.par:18
 
-    9 of 11
-    vratilo.par:2
-    uskocnik_din471_12_1.par:3
+    9 of 63
+    KUCISTE_DONJI_DIO
+    MATICA_DIN985_M5.par:10
 
-    10 of 11
-    vratilo.par:2
-    uskocnik_din471_12_1.par:4
+    10 of 63
+    KUCISTE_DONJI_DIO
+    PODLOSKA_DIN125_M5.par:20
 
-    11 of 11
-    cahura.par:2
-    lezaj.par:4
+    11 of 63
+    KUCISTE_DONJI_DIO
+    VIJAK_DIN912_M3x10.par:3
 
-    11 Interferences Detected
+    12 of 63
+    KUCISTE_DONJI_DIO
+    VIJAK_DIN912_M3x10.par:4
+
+    13 of 63
+    KUCISTE_DONJI_DIO
+    VIJAK_DIN912_M3x10.par:7
+
+    14 of 63
+    KUCISTE_DONJI_DIO
+    VIJAK_DIN912_M3x10.par:8
+
+    15 of 63
+    KUCISTE_DONJI_DIO
+    VIJAK_DIN912_M3x10.par:10
+
+    16 of 63
+    KUCISTE_DONJI_DIO
+    VIJAK_DIN912_M3x10.par:11
+
+    17 of 63
+    POGONSKI_ZUPCANIK.par:1
+    GONJENI_ZUPCANIK.par:1
+
+    18 of 63
+    POGONSKI_ZUPCANIK.par:1
+    PERO_DIN6885_A_4x4x12.par:2
+
+    19 of 63
+    VRATILO_UNIVERZALNO.par:1
+    LEZAJ_6201_2RS.par:2
+
+    20 of 63
+    VRATILO_UNIVERZALNO.par:1
+    PERO_DIN6885_A_4x4x12.par:1
+
+    21 of 63
+    DISTANTNA_CAHURA.par:1
+    LEZAJ_6201_2RS.par:1
+
+    22 of 63
+    VRATILO_UNIVERZALNO.par:2
+    USKOCNIK_DIN_471_12_1.par:3
+
+    23 of 63
+    VRATILO_UNIVERZALNO.par:2
+    USKOCNIK_DIN_471_12_1.par:4
+
+    24 of 63
+    DISTANTNA_CAHURA.par:2
+    LEZAJ_6201_2RS.par:4
+
+    25 of 63
+    LEZAJ_6201_2RS.par:2
+    KUCISTE_GORNJI_DIO
+
+    26 of 63
+    LEZAJ_6201_2RS.par:3
+    KUCISTE_GORNJI_DIO
+
+    27 of 63
+    LEZAJ_6201_2RS.par:4
+    KUCISTE_GORNJI_DIO
+
+    28 of 63
+    KUCISTE_GORNJI_DIO
+    MAZALICA_DIN71412_M6.par:1
+
+    29 of 63
+    KUCISTE_GORNJI_DIO
+    POKLOPAC_LEZAJA_UNIVERZALNI.par:1
+
+    30 of 63
+    KUCISTE_GORNJI_DIO
+    VIJAK_DIN912_M3x10.par:1
+
+    31 of 63
+    KUCISTE_GORNJI_DIO
+    POKLOPAC_LEZAJA_UNIVERZALNI.par:2
+
+    32 of 63
+    KUCISTE_GORNJI_DIO
+    VIJAK_DIN912_M3x10.par:6
+
+    33 of 63
+    KUCISTE_GORNJI_DIO
+    PODLOSKA_DIN125_M5.par:17
+
+    34 of 63
+    KUCISTE_GORNJI_DIO
+    VIJAK_DIN912_M5x20.par:9
+
+    35 of 63
+    KUCISTE_GORNJI_DIO
+    PODLOSKA_DIN125_M5.par:19
+
+    36 of 63
+    KUCISTE_GORNJI_DIO
+    VIJAK_DIN912_M5x20.par:10
+
+    37 of 63
+    KUCISTE_GORNJI_DIO
+    VIJAK_DIN912_M3x10.par:2
+
+    38 of 63
+    KUCISTE_GORNJI_DIO
+    VIJAK_DIN912_M3x10.par:9
+
+    39 of 63
+    KUCISTE_GORNJI_DIO
+    VIJAK_DIN912_M3x10.par:12
+
+    40 of 63
+    VIJAK_DIN912_M5x20.par:1
+    PODLOSKA_DIN125_M5.par:1
+
+    41 of 63
+    VIJAK_DIN912_M5x20.par:1
+    MATICA_DIN985_M5.par:1
+
+    42 of 63
+    BRTVA_DIN7603_A_M8.par:1
+    VIJAK_DIN933_M8x10.par:1
+
+    43 of 63
+    PODLOSKA_DIN125_M5.par:3
+    VIJAK_DIN912_M5x20.par:2
+
+    44 of 63
+    MATICA_DIN985_M5.par:2
+    VIJAK_DIN912_M5x20.par:2
+
+    45 of 63
+    PODLOSKA_DIN125_M5.par:5
+    VIJAK_DIN912_M5x20.par:3
+
+    46 of 63
+    MATICA_DIN985_M5.par:3
+    VIJAK_DIN912_M5x20.par:3
+
+    47 of 63
+    PODLOSKA_DIN125_M5.par:7
+    VIJAK_DIN912_M5x20.par:4
+
+    48 of 63
+    MATICA_DIN985_M5.par:4
+    VIJAK_DIN912_M5x20.par:4
+
+    49 of 63
+    PODLOSKA_DIN125_M5.par:9
+    VIJAK_DIN912_M5x20.par:5
+
+    50 of 63
+    MATICA_DIN985_M5.par:5
+    VIJAK_DIN912_M5x20.par:5
+
+    51 of 63
+    PODLOSKA_DIN125_M5.par:11
+    VIJAK_DIN912_M5x20.par:6
+
+    52 of 63
+    MATICA_DIN985_M5.par:6
+    VIJAK_DIN912_M5x20.par:6
+
+    53 of 63
+    PODLOSKA_DIN125_M5.par:13
+    VIJAK_DIN912_M5x20.par:7
+
+    54 of 63
+    MATICA_DIN985_M5.par:7
+    VIJAK_DIN912_M5x20.par:7
+
+    55 of 63
+    PODLOSKA_DIN125_M5.par:15
+    VIJAK_DIN912_M5x20.par:8
+
+    56 of 63
+    MATICA_DIN985_M5.par:8
+    VIJAK_DIN912_M5x20.par:8
+
+    57 of 63
+    PODLOSKA_DIN125_M5.par:17
+    VIJAK_DIN912_M5x20.par:9
+
+    58 of 63
+    MATICA_DIN985_M5.par:9
+    VIJAK_DIN912_M5x20.par:9
+
+    59 of 63
+    PODLOSKA_DIN125_M5.par:19
+    VIJAK_DIN912_M5x20.par:10
+
+    60 of 63
+    MATICA_DIN985_M5.par:10
+    VIJAK_DIN912_M5x20.par:10
+
+    61 of 63
+    VIJAK_DIN912_M3x10.par:7
+    VIJAK_DIN912_M3x10.par:10
+
+    62 of 63
+    VIJAK_DIN912_M3x10.par:8
+    VIJAK_DIN912_M3x10.par:11
+
+    63 of 63
+    VIJAK_DIN912_M3x10.par:9
+    VIJAK_DIN912_M3x10.par:12
+
+    63 Interferences Detected
